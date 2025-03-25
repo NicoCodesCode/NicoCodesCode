@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I'm just someone who loves learning new and cool t
 
 ## About Me  
 - 📚 I'm currently in **high school**, studying an **informatics career**  
-- 🌐 Learning React on my own, and I've built some little projects with these skills  
+- 🌐 Learning web development on my own, and I've built some little projects for that   
 - 🖥️ My goal is to become a **full-stack developer**, maybe with more focus on the **back-end** (graphical design isn't really my thing, hehe)  
 - 🐱 I like **cats**    
 
