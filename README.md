@@ -7,5 +7,4 @@ Welcome to my GitHub profile! I'm just someone who loves learning new and cool t
 - 🖥️ My goal is to become a **full-stack developer**    
 - 🐱 I like **cats**    
 
-**Feel free to reach out** through GitHub if you'd like to connect or chat.  
 Thanks for stopping by and reading! uwu  
